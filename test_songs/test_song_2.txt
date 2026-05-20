@@ -1,0 +1,19 @@
+# title: longer song
+# artist: Gemini
+# metre: 4/4
+# tonic: C
+
+0.0 silence
+1 C, intro, | C:maj | F:maj | G:maj | C:maj |
+5 C, verse 1, | C:maj | Am:min | F:maj | G:maj |
+9 C, verse 1, | C:maj | Am:min | F:maj | G:maj |
+13 C, chorus, | F:maj | G:maj | Em:min | Am:min |
+17 C, chorus, | F:maj | G:maj | C:maj | C:maj |
+21 C, verse 2, | C:maj | Am:min | F:maj | G:maj |
+25 C, verse 2, | C:maj | Am:min | F:maj | G:maj |
+29 C, bridge, | D:min | G:maj | D:min | G:maj |
+33 C, chorus, | F:maj | G:maj | Em:min | Am:min |
+37 C, chorus, | F:maj | G:maj | C:maj | C:maj |
+41 C, outro, | F:maj | C:maj |
+43 silence
+44 end

@@ -1,0 +1,9 @@
+# title: Test Song
+# artist: Tiernan Burke
+# metre: 6/8
+# tonic: G
+
+0.0	silence
+1   G, intro, | D:maj | E:min | C:maj |
+3	silence
+4	end
